@@ -32,7 +32,7 @@ Creëer de startpagina van de officiële website van de gemeente Heers met behul
 | Hoe afleveren?            | /web       | gebruik alle voorbereide files        |
 
 ### Omschrijving
-Gebruik de HTML-code die al is voorzien om de visual zo nauwkeurig mogelijk na te maken met behulp van HTML en CSS. Zorg ervoor dat de opmaak verzorgd wordt met CSS, en dat de elementen vloeiend en responsief reageren op de viewport, ongeacht of deze wordt bekeken op een desktop, tablet of mobiel apparaat.
+Gebruik de HTML-code die al is voorzien om de <a href="https://github.com/lcpnv/frontend-proef/blob/develop/web/visual/heers-home.png" target="_blank">visual</a> zo nauwkeurig mogelijk na te maken met behulp van HTML en CSS. Zorg ervoor dat de opmaak verzorgd wordt met CSS, en dat de elementen vloeiend en responsief reageren op de viewport, ongeacht of deze wordt bekeken op een desktop, tablet of mobiel apparaat.
 
 #### Wanneer je ons omver wil blazen:
 

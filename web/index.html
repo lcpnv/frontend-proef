@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,16 +9,101 @@
 
 	<title>Lcp proef</title>
 </head>
+
 <body>
 	<header>
 		<h1><span>Frontend-proef</span></h1>
 	</header>
 	<main>
-
-
+		<section>
+			<h2><span>In de kijker </span></h2>
+			<ul>
+				<li>
+					<svg class="spotlight__icon" aria-hidden="true">
+						<use href="/global/icons/global-line.svg#time"
+							style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+						</use>
+					</svg>
+					<a href="/contact" class="spotlight__link"><span class="spotlight__title">Openingsuren</span> </a>
+				</li>
+				<li class="spotlight__item link-hover" data-id="2">
+					<svg class="spotlight__icon" aria-hidden="true">
+						<use href="/global/icons/global-line.svg#draft"
+							style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+						</use>
+					</svg>
+					<a href="/eloket" class="spotlight__link"><span class="spotlight__title">Digitaal loket</span> </a>
+				</li>
+				<li class="spotlight__item link-hover" data-id="5">
+					<svg class="spotlight__icon" aria-hidden="true">
+						<use href="/global/icons/global-line.svg#message-2"
+							style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+						</use>
+					</svg>
+					<a href="/eloket" class="spotlight__link"> <span class="spotlight__title">Iets melden</span> </a>
+				</li>
+				<li class="spotlight__item link-hover" data-id="10">
+					<svg class="spotlight__icon" aria-hidden="true">
+						<use href="/global/icons/global-line.svg#suitcase-2"
+							style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+						</use>
+					</svg>
+					<a href="/toerisme" class="spotlight__link"> <span class="spotlight__title">Toerisme</span> </a>
+				</li>
+			</ul>
+		</section>
+		<section class="spot-box spot-text-with-icon">
+			<h2><span>Spot box </span></h2>
+			<div class="spot-box__row">
+				<div class="spot-box__column spot-box__column--1">
+					<div class="spot-box__content-block">
+						<div class="spot-box__column-row">
+							<svg class="spot-box__icon" aria-hidden="true">
+								<use href="/global/icons/global-line.svg#mail-send" style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+								</use>
+							</svg>
+							<div class="spot-box__content">
+								<h2 class="spot-box__title"><span>Nieuwsbrief</span></h2>
+								<div class="info spot-box__info">Steeds de interessantste nieuwtjes ontvangen per e-mail?</div>
+								<a href="#" class="btn-cta spot-box__link spot-box__btn">
+									<span>Inschrijven op de nieuwsbrief</span>
+									<svg class="btn__icon" aria-hidden="true">
+										<use href="/global/icons/global-line.svg#arrow-right"
+											style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+										</use>
+									</svg>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="spot-box__column spot-box__column--2">
+					<div class="spot-box__content-block link-hover">
+						<div class="spot-box__column-row">
+							<svg class="spot-box__icon" aria-hidden="true">
+								<use href="/global/icons/global-line.svg#newspaper"
+									style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+								</use>
+							</svg>
+							<div class="spot-box__content">
+								<h2 class="spot-box__title"><span>Infoblad</span></h2>
+								<div class="info spot-box__info">
+									Het gemeentelijk infomagazine valt maandelijks in de bus van alle inwoners in Heers!
+								</div>
+								<a href="#" class="btn-cta spot-box__link spot-box__btn">
+									<span>Bekijk de laatste edities</span>
+									<svg class="btn__icon" aria-hidden="true">
+										<use href="/global/icons/global-line.svg#arrow-right" style="fill:var(--icon-color-primary,var(--icon-color));transition:fill var(--transition-duration-base) var(--transition-timing-function)">
+										</use>
+									</svg>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 	</main>
-	<footer>
-
-	</footer>
+	<footer> </footer>
 </body>
 </html>

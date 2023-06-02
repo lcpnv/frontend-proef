@@ -25,3 +25,20 @@ Creëer de startpagina van de officiële website van de gemeente Heers met behul
 
 
 ## Opdracht 2: Web
+|                     | Locatie | Omschrijving |
+| -----------               | ----------- | ----------- |
+| Visual    | /web/visual       | Voorbeeld van het resultaat       |
+| Aangeleverde bestanden    | /web       | voorbereide html, svg icons       |
+| Hoe afleveren?            | /web       | gebruik alle voorbereide files        |
+
+### Omschrijving
+Gebruik de HTML-code die al is voorzien om de visual zo nauwkeurig mogelijk na te maken met behulp van HTML en CSS. Zorg ervoor dat de opmaak verzorgd wordt met CSS, en dat de elementen vloeiend en responsief reageren op de viewport, ongeacht of deze wordt bekeken op een desktop, tablet of mobiel apparaat.
+
+#### Wanneer je ons omver wil blazen:
+
+- Binnen ons team maken we gebruik van SCSS als CSS-preprocessor. Het zou een meerwaarde zijn als je zelf in staat bent om SCSS toe te passen voor deze specifieke opdracht.
+- Pas CSS-variabelen toe om de kleuren te definiëren en toe te passen, waarbij je het gebruik van verschillende kleuren tot een minimum beperkt.
+- Streef ernaar om code zoveel mogelijk te hergebruiken, waardoor efficiëntie wordt bevorderd.
+
+Succes en hopelijk tot binnenkort. :muscle:<br />
+Tom, Pieter en Sam

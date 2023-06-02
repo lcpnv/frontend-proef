@@ -27,7 +27,7 @@ Maak een eigen redesign voor de startpagina van de officiële website van de gem
 ## Opdracht 2: Web
 |                     | Locatie | Omschrijving |
 | -----------               | ----------- | ----------- |
-| Visual    | /web/visual       | Voorbeeld van het resultaat       |
+| Visual    | <a href="https://github.com/lcpnv/frontend-proef/blob/develop/web/visual/heers-home.png" target="_blank">/web/visual</a>       | Voorbeeld van het resultaat       |
 | Aangeleverde bestanden    | /web       | voorbereide html met svg icons       |
 | Hoe afleveren?            | /web       | gebruik alle voorbereide files        |
 

@@ -13,7 +13,7 @@ De opdracht bestaat uit twee delen: een grafisch en een technisch onderdeel.<br 
 
 
 ### Omschrijving
-Creëer de startpagina van de officiële website van de gemeente Heers met behulp van de meegeleverde huisstijl. Zorg ervoor dat de volgende elementen in de pagina worden opgenomen.
+Maak een eigen redesign voor de startpagina van de officiële website van de gemeente Heers met behulp van de meegeleverde huisstijl. Zorg ervoor dat de volgende elementen in de pagina worden opgenomen.
 
 - Logo
 - Menu met (items: Leven & welzijn, Wonen & werken, Ruimte & omgeving, Vrije tijd, Bestuur)

@@ -28,7 +28,7 @@ Creëer de startpagina van de officiële website van de gemeente Heers met behul
 |                     | Locatie | Omschrijving |
 | -----------               | ----------- | ----------- |
 | Visual    | /web/visual       | Voorbeeld van het resultaat       |
-| Aangeleverde bestanden    | /web       | voorbereide html, svg icons       |
+| Aangeleverde bestanden    | /web       | voorbereide html met svg icons       |
 | Hoe afleveren?            | /web       | gebruik alle voorbereide files        |
 
 ### Omschrijving

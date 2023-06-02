@@ -1,0 +1,15 @@
+*:where(:not(iframe, canvas, img, video, audio, hr, ol, sup, sub):not(svg *, symbol *)) {
+    all: unset;
+    display: revert;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+svg {
+    width: var(--icon-width, 24px);
+    height: var(--icon-height, 24px);
+}

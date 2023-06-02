@@ -2,7 +2,7 @@
 
 Beste kandidaat :wave:</br> We zijn verheugd dat je interesse hebt om deel uit te maken van ons team. Als frontend-ontwikkelaar speel je een essentiële rol in het vormgeven van de gebruikerservaring en het creëren van intuïtieve interfaces. Deze test is ontworpen om je vaardigheden en technische kennis te evalueren, en we zijn benieuwd naar jouw creativiteit en probleemoplossend vermogen.<br /> We wensen je veel succes en kijken ernaar uit om je werk te beoordelen.</br> <sup>(Deze tekst is geschreven door chatGPT, wat jullie tijdens deze opdracht niet mogen gebruiken.:wink:)</sup>
 
-De opdracht bestaat uit twee delen: een grafisch en een technisch onderdeel. Om aan de opdracht te beginnen, dien je de zip van deze repository te downloaden en vervolgens de opdracht uit te voeren. Zodra je klaar bent, stuur je jouw voltooide opdracht als zip-bestand naar mieke@lcp.be.
+De opdracht bestaat uit twee delen: een grafisch en een technisch onderdeel.<br /> Om aan de opdracht te beginnen, dien je de zip van deze repository te downloaden en vervolgens de opdracht uit te voeren. Zodra je klaar bent, stuur je jouw voltooide opdracht als zip-bestand naar mieke@lcp.be.
 
 ## Opdracht 1: Design
 

@@ -1,8 +1,8 @@
 # Opdracht frontend
 
-Beste kandidaat :wave:</br> We zijn verheugd dat je interesse hebt om deel uit te maken van ons team. Als frontend-ontwikkelaar speel je een essentiële rol in het vormgeven van de gebruikerservaring en het creëren van intuïtieve interfaces. Deze test is ontworpen om je vaardigheden en technische kennis te evalueren, en we zijn benieuwd naar jouw creativiteit en probleemoplossend vermogen.<br /> We wensen je veel succes en kijken ernaar uit om je werk te beoordelen.</br> <sup>(Deze tekst is geschreven door chatGPT, wat jullie tijdens deze opdracht niet mogen gebruiken.:wink:)</sup>
+Beste kandidaat :wave:</br> Tof dat je interesse hebt om deel uit te maken van ons team! Als frontend-ontwikkelaar speel je een essentiële rol in het vormgeven van de gebruikerservaring en het creëren van intuïtieve interfaces. Deze test is ontworpen om je vaardigheden en technische kennis in kaart te brengen. We zijn ook benieuwd naar jouw creativiteit en probleemoplossend vermogen.<br /><sup>(Deze tekst is geschreven door chatGPT, wat jullie tijdens deze opdracht niet mogen gebruiken.:wink:)</sup>
 
-De opdracht bestaat uit twee delen: een grafisch en een technisch onderdeel.<br /> Om aan de opdracht te beginnen, dien je de zip van deze repository te downloaden en vervolgens de opdracht uit te voeren. Zodra je klaar bent, stuur je jouw voltooide opdracht als zip-bestand naar mieke@lcp.be.
+De opdracht bestaat uit twee delen: een grafisch en een technisch onderdeel.<br /> Download de zip van deze repository en voer de opdracht uit. Mail jouw voltooide opdracht als zip-bestand naar mieke@lcp.be.
 
 ## Opdracht 1: Design
 
@@ -13,7 +13,7 @@ De opdracht bestaat uit twee delen: een grafisch en een technisch onderdeel.<br 
 
 
 ### Omschrijving
-Maak een eigen redesign voor de startpagina van de officiële website van de gemeente Heers met behulp van de meegeleverde huisstijl. Zorg ervoor dat de volgende elementen in de pagina worden opgenomen.
+Maak een eigen redesign voor de startpagina van de officiële website van de gemeente Heers op basis van de meegeleverde huisstijl. De pagina moet deze elementen bevatten:
 
 - Logo
 - Menu met (items: Leven & welzijn, Wonen & werken, Ruimte & omgeving, Vrije tijd, Bestuur)
@@ -34,11 +34,11 @@ Maak een eigen redesign voor de startpagina van de officiële website van de gem
 ### Omschrijving
 Gebruik de HTML-code die al is voorzien om de <a href="https://github.com/lcpnv/frontend-proef/blob/develop/web/visual/heers-home.png" target="_blank">visual van het eindresultaat</a> zo nauwkeurig mogelijk na te maken met behulp van HTML en CSS. Zorg ervoor dat de opmaak verzorgd wordt met CSS, en dat de elementen vloeiend en responsief reageren op de viewport, ongeacht of deze wordt bekeken op een desktop, tablet of mobiel apparaat.
 
-#### Wanneer je ons omver wil blazen:
+#### Als je ons omver wil blazen:
 
-- Binnen ons team maken we gebruik van SCSS als CSS-preprocessor. Het zou een meerwaarde zijn als je zelf in staat bent om SCSS toe te passen voor deze specifieke opdracht.
+- Binnen ons team maken we gebruik van SCSS als CSS-preprocessor. Het is een meerwaarde als je zelf in staat bent om SCSS toe te passen voor deze specifieke opdracht.
 - Pas CSS-variabelen toe om de kleuren te definiëren en toe te passen, waarbij je het gebruik van verschillende kleuren tot een minimum beperkt.
 - Streef ernaar om code zoveel mogelijk te hergebruiken, waardoor efficiëntie wordt bevorderd.
 
-Succes en hopelijk tot binnenkort. :muscle:<br />
+We kijk ernaar uit om je werk te evalueren. Veel succes! :muscle:<br />
 Tom, Pieter en Sam
